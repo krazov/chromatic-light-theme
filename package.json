@@ -2,7 +2,7 @@
     "name": "krazov.chromatic-light-theme",
     "title": "Chromatic Light Theme",
     "description": "Syntax colouring from Chromium developers tools because I grew attached to them. There are only two changes.",
-    "homepage": "https://github.com/Krazov",
+    "homepage": "https://github.com/krazov/chromatic-light-theme",
     "version": "1.0.0",
     "author": "Jon Krazov <krazov@protonmail.ch> (http://krazov.com)",
     "license": "MIT",
